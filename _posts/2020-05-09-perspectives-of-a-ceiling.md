@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "perspectives of a ceiling "
+title: "Perspectives of a Ceiling "
 date: 2020-05-09 11:31:00 +0000
 categories: [""]
 ---
