@@ -1,0 +1,26 @@
+---
+---
+
+@import "minima";
+
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+body, p, li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+  color: #8ab4f8;
+}
+
+.site-header, .site-footer {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
