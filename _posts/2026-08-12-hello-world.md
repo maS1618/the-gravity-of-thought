@@ -1,6 +1,6 @@
 ---
 layout: test-post
-title: "Hello World."
+title: "Hello World"
 date: 2026-08-12
 ---
 
