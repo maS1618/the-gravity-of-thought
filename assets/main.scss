@@ -24,3 +24,21 @@ a {
   background-color: #1a1a1a;
   border-color: #333;
 }
+
+.home-wrapper { 
+  display: flex; 
+  gap: 2rem; 
+} 
+
+.sidebar { 
+  flex: 0 0 220px; 
+} 
+
+.sidebar img { 
+  width: 100%; 
+  border-radius: 8px; 
+} 
+
+.posts-column { 
+  flex: 1; 
+}
